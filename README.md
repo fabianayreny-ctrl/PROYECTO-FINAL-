@@ -55,7 +55,7 @@ tablas, y un usuario de prueba:
 
 | Usuario | Contraseña |
 |---|---|
-| `admin` | `admin123456` |
+| `admin` | `admin12345` |
 
 **Cambie esta contraseña antes de la defensa** (con el endpoint
 `POST /auth/usuarios` puede crear otros usuarios).
